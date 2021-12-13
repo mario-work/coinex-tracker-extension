@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="resources/images/icon_app.png" width="150px" alt="Project Logo" title="CoinEx balance tacker">
+    <img src="resources/images/projectImage.png" width="150px" alt="Project Logo" title="CoinEx balance tacker">
   <hr>
 <h3 align="center"><u>CoinEx balance tacker</u></h3>
     <p align="center">A Chrome browser extension for tracking transfers and balances of assets on CoinEx Smart Chain (CSC)</p>
