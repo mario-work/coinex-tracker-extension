@@ -39,9 +39,9 @@
 
   <table>
   <tr>
-    <td><img src="demo-Images/1.png"></td>
-    <td><img src="demo-Images/2.png"></td>
-    <td><img src="demo-Images/3.png"></td>
+    <td><img src="demo-Images/demo1.png"></td>
+    <td><img src="demo-Images/demo2.png"></td>
+    <td><img src="demo-Images/demo3.png"></td>
   </tr>
 </table>
 
