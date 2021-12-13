@@ -32,7 +32,7 @@
 3. Turn on **Developer mode** in the Chrome extension section and install extension:
     1. Go to ```chrome://extensions/``` and toggle the **Developer mode** in the top right.
     2. Click the **Load unpacked extension** button and select the unzipped folder of extension to install it.
-4. API queries may return a CORS error. To solve this, you need to run a local proxy on NodeJS. You can see how to do it here: [https://github.com/Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere). In my example, the server is running on port ```8080```. **Soon I will create a remote server and you no longer need to run any local servers**
+4. **Attention ! -** API queries may return a CORS error. To solve this, you need to run a local proxy on NodeJS. You can see how to do it here: [https://github.com/Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere). In my example, the server is running on port ```8080```. **Soon I will create a remote server and you no longer need to run any local servers**
 
 ----------
 
