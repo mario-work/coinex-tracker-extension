@@ -20,11 +20,6 @@
 
 ----------
 
-## Presentation
-
-- **Video demo:** [https://bittube.tv/post/c5c174f2-f8e1-4c94-be2b-bd1ec679cb40](https://bittube.tv/post/c5c174f2-f8e1-4c94-be2b-bd1ec679cb40)
-----------
-
 ## How to use / How to install extension:
 
 1. Download this repository (ZIP)
